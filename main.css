@@ -11,13 +11,23 @@ h6 {
 
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  background: #547AA5 !important; }
+ 
+ p {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+ }
+li {
+ font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
 
+}
 
 header.masthead {
   text-align: center;
-  background: #18BC9C;
-  color: white; }
+  background-color: #78C3FB;
+}
   header.masthead .container {
     padding-top: 100px;
     padding-bottom: 50px; }
